@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+"""Script that uses xrandr to change X screen configurations"""
 
 # Import modules
 import argparse
